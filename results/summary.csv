@@ -1,0 +1,4 @@
+codon_position,missense,start_lost,stop_gained,stop_lost,synonymous
+1,90.4,0.2,4.7,0.2,4.5
+2,95.2,0.2,4.4,0.1,0.1
+3,24.7,0.2,4.0,0.1,71.0
