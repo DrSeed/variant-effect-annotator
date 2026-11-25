@@ -1,0 +1,26 @@
+c_change,codon_position,codon_change,effect,p_change,type,note
+c.98A>T,2,CAA>CTA,missense,p.Gln33Leu,transversion,polar/small -> hydrophobic
+c.134A>T,2,AAG>ATG,missense,p.Lys45Met,transversion,basic -> hydrophobic
+c.229A>T,1,ATT>TTT,missense,p.Ile77Phe,transversion,conservative
+c.277A>C,1,AGG>CGG,synonymous,p.Arg93=,transversion,
+c.356_357insA,2,,frameshift,p.Leu119fs,indel,new stop 11 codons downstream
+c.421T>C,1,TGG>CGG,missense,p.Trp141Arg,transition,hydrophobic -> basic
+c.441A>G,3,GTA>GTG,synonymous,p.Val147=,transition,
+c.458_459insG,2,,frameshift,p.Ile153fs,indel,new stop 16 codons downstream
+c.470G>C,2,AGA>ACA,missense,p.Arg157Thr,transversion,basic -> polar/small
+c.497A>G,2,GAG>GGG,missense,p.Glu166Gly,transition,acidic -> polar/small
+c.570_571insC,3,,frameshift,p.Ser190fs,indel,new stop 15 codons downstream
+c.693C>T,3,GTC>GTT,synonymous,p.Val231=,transition,
+c.729C>A,3,GCC>GCA,synonymous,p.Ala243=,transversion,
+c.794C>A,2,TCC>TAC,missense,p.Ser265Tyr,transversion,conservative
+c.833_834del,1,,frameshift,p.Ile278fs,indel,new stop 8 codons downstream
+c.871G>A,1,GTC>ATC,missense,p.Val291Ile,transition,conservative
+c.887_888insAG,2,,frameshift,p.His296fs,indel,new stop 30 codons downstream
+c.1037del,1,,frameshift,p.Phe346fs,indel,new stop 8 codons downstream
+c.1115_1117del,1,,inframe_deletion,p.Cys372,indel,
+c.1117_1119del,3,,inframe_deletion,p.Cys372,indel,
+c.1124T>A,2,GTG>GAG,missense,p.Val375Glu,transversion,hydrophobic -> acidic
+c.1186_1187insTTA,1,,inframe_insertion,p.His396,indel,
+c.1322A>G,2,CAT>CGT,missense,p.His441Arg,transition,conservative
+c.1423C>G,1,CAA>GAA,missense,p.Gln475Glu,transversion,polar/small -> acidic
+c.1478C>G,2,ACA>AGA,missense,p.Thr493Arg,transversion,polar/small -> basic
